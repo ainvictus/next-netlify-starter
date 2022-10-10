@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Augustus" />
         <p className="description">
-          Augustus <code>pages/index.js</code>
+          Desc <code>pages/index.js</code>
         </p>
       </main>
 
