@@ -12,7 +12,6 @@ export default function Home() {
 
       <main>
         <Header title="The Invictus Law Firm, P.A." />
-        <p><img src="/augustus_invictus_law.jpg" alt="construction" className={styles.photo} /></p>
         <p><img src="/augustus_invictus_law.jpg" alt="Attorney Augustus Invictus"/> </p>
       </main>
 
