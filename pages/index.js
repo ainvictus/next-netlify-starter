@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Invictus Law Firm</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Augustus" />
+        <Header title="The Invictus Law Firm, P.A." />
         <p className="description">
-          Desc <code>pages/index.js</code>
+          blah blah <code>pages/index.js</code>
         </p>
       </main>
 
