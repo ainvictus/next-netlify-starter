@@ -17,6 +17,17 @@ export default function Home() {
         <p>Orlando, Florida 32801</p>
         <p>Email: InvictusPA@protonmail.com</p>
         <p>Phone: 407.900.2848</p>
+     <form name="contact" netlify>
+        <p>
+        <label>Name <input type="text" name="name" /></label>
+        </p>
+        <p>
+        <label>Email <input type="email" name="email" /></label>
+        </p>
+        <p>
+        <button type="submit">Send</button>
+        </p>
+    </form>
         </main>
 
       <Footer />
