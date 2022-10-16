@@ -12,8 +12,8 @@ export default function Home() {
 
       <main>
         <Header title="The Invictus Law Firm, P.A." />
-        <p><img src="/augustus_invictus_law.jpg" alt="Girl in a jacket" width="300" height="auto"/></p>
-        <p>424 East Central Blvd. #731</p>
+        <p><img src="/augustus_invictus_law.jpg" alt="Girl in a jacket" width="200" height="auto"/></p>
+        <p>424 East Central Blvd. Suite #731</p>
         <p>Orlando, Florida 32801</p>
         <p>Email: InvictusPA@protonmail.com</p>
         <p>Phone: 407.900.2848</p>
