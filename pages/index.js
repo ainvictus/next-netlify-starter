@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="The Invictus Law Firm, P.A." />
-        <p><img src="/augustus_invictus_law.jpg" alt="Girl in a jacket" width="500" height="600"></p>
+        <p><img src="/augustus_invictus_law.jpg" alt="Girl in a jacket" width="500" height="600"/></p>
         </main>
 
       <Footer />
